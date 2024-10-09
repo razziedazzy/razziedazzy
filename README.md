@@ -16,7 +16,7 @@
 ### You Stand No Chance
 
 ### Adds Scythes to Minecraft and is Required to be Ran on the Server Side. Future Plans are Made to Support 1.21.1 and Future Version. Also, Will Likely Remove the Idea of Titanium Because its Useless.
-
+<br>
 <img src="https://i.ibb.co/Kz8SL03/637969657724955811.png"> 
 
 ---
@@ -24,5 +24,5 @@
 ### Extra Enchants Reworked
 
 ### This Project is Likely to be Discontinued Due to it Being Hard for me to Convert the Old Libraries to Newer Libraries.
-
+<br>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtUNTTNWvJ238tYzNMaF2KVxF-2kVc0eZIHA&s">
