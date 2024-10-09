@@ -1,6 +1,6 @@
  ## Hallooooo, I am Kyla.<br><br>I Work on Projects Like "You Stand No Chance" or "Open Source Ricochet". I Enjoy Games Like Celeste and Stardew Valley and Enjoy Listening to Laufey and Faye Webster. I am Also a Former Arch Linux User, but I Went Back to the Dark Side of Windows 11 for VR Support.<br><br>
 
-# Road Map of Projects<br><br>
+# Road Map of Projects<br>
 ### Open Source Ricochet
 ### A Game That is Made Based Off of The Game "Ricochet" By Valve Software. It Is Created in Unity But There Are Plans to Swap to Godot. It is Extremely Unfinished and Would Not Recommend Trying in its Current State.
 <br>
