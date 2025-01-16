@@ -10,7 +10,7 @@
 
 ### You Stand No Chance
 
-### Adds Scythes to Minecraft and is Required to be Ran on the Server Side. Future Plans are Made to Support 1.21.1 and Future Version. Also, Will Likely Remove the Idea of Titanium Because its Useless.
+### Adds Scythes to Minecraft and is Required to be Ran on the Server Side. Future Plans are Made to Port to Forge Also, Will Likely Remove the Idea of Titanium Because its Useless.
 <br>
 <img src="https://i.ibb.co/Kz8SL03/637969657724955811.png"> 
 
