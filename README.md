@@ -1,4 +1,4 @@
- ## Hewwoo, I am Estra :3<br><br>I Work on Projects Like "You Stand No Chance" or "Open Source Ricochet". I Enjoy Games Like Celeste and Stardew Valley and Enjoy Listening to Laufey and Faye Webster. I am Also a Arch Linux User ^_^<br><br>
+ ## Hewwoo, I am Astrid :3<br><br>I Work on Projects Like "You Stand No Chance" or "Open Source Ricochet". I Enjoy Games Like Celeste and Stardew Valley and Enjoy Listening to Laufey and Faye Webster. I am Also a Arch Linux User ^_^<br><br>
 
 # Road Map of Projects<br>
 ### Open Source Ricochet
