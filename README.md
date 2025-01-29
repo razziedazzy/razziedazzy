@@ -12,7 +12,7 @@
 
 ### Adds Scythes to Minecraft and is Required to be Ran on the Server Side. Future Plans are Made to Port to Forge Also, Will Likely Remove the Idea of Titanium Because its Useless.
 <br>
-<img src="https://i.ibb.co/Kz8SL03/637969657724955811.png"> 
+<img src="https://i.imgur.com/vyvPIIj.png"> 
 
 ---
 
