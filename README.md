@@ -1,4 +1,5 @@
- ## Hewwoo, I am Astrid :3<br><br>I Work on Projects Like "You Stand No Chance" or "Open Source Ricochet". I Enjoy Games Like Celeste and Stardew Valley and Enjoy Listening to Laufey and Faye Webster. I am Also a Arch Linux User ^_^<br><br>
+ ## Hewwoo, I am Astrid :3<br><br> [PC](https://pcpartpicker.com/user/twodsnerd/saved/#view=36WhjX)  | [All Info](https://guns.lol/itskyla) | [Last.FM](https://www.last.fm/user/MrDinoOnTwitch)| [Github](https://github.com/astridiol)<br><br>I Work on Projects Like "You Stand No Chance" or "Open Source Ricochet". I Enjoy Games Like Celeste and Stardew Valley and Enjoy Listening to Laufey and Faye Webster. I am Also a Arch Linux User ^_^<br><br>
+
 # Projects >w< <br>
 
 ### Open Source Ricochet
@@ -12,9 +13,16 @@
 ### You Stand No Chance
 
 ### Adds Scythes to Minecraft and is Required to be Ran on the Server Side. For People That Want More Weapons But Want Them to Feel Like Vanilla MC.
+
 <br>
 <img src="https://cdn.modrinth.com/data/3HyN4uFO/images/4d336d79e8dc24be95e5d6ea90743da73b049b17.png"> 
-
+<br>
+<br>
+<img src="https://cdn.modrinth.com/data/3HyN4uFO/images/fd0a50c40d182cbcd72e1956c0f4fe57962a7c63.png"> 
+<br>
+<br>
+ 
+ ### Has Different Scythes Crafted From Various Materials Such as Wood, Stone, Iron, Gold, Diamond, and Netherite.
 
 
 ---
