@@ -11,8 +11,7 @@
 
 ### You Stand No Chance
 
-### Adds Scythes to Minecraft and is Required to be Ran on the Server Side.
-### For People That Want More Weapons But Want Them to Feel Like Vanilla MC.
+### Adds Scythes to Minecraft and is Required to be Ran on the Server Side. For People That Want More Weapons But Want Them to Feel Like Vanilla MC.
 <br>
 <img src="https://cdn.modrinth.com/data/3HyN4uFO/images/4d336d79e8dc24be95e5d6ea90743da73b049b17.png"> 
 
