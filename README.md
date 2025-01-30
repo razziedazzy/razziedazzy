@@ -1,7 +1,4 @@
  ## Hewwoo, I am Astrid :3<br><br>I Work on Projects Like "You Stand No Chance" or "Open Source Ricochet". I Enjoy Games Like Celeste and Stardew Valley and Enjoy Listening to Laufey and Faye Webster. I am Also a Arch Linux User ^_^<br><br>
-<br>
-<img src="https://media.tenor.com/atHaosIyQLwAAAAM/cat-headbutt.gif">
-<br>
 # Road Map of Projects<br>
 ### Open Source Ricochet
 ### A Game That is Made Based Off of The Game "Ricochet" By Valve Software. It Is Created in Unity But There Are Plans to Swap to Godot. It is Extremely Unfinished and Would Not Recommend Trying in its Current State.
