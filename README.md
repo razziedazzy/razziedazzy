@@ -1,11 +1,4 @@
- ## Hewwoo, I am Astrid :3<br>
- 
- <br> 
- <a href="https://www.last.fm/user/MrDinoOnTwitch"><img src="https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=mrdinoontwitch&theme=dark&show_scrobbles=true" style="height: 15vh; border-radius: 10px;" alt="&nbsp;if i was listening to music it would show here"></a>
-
- ## [PC](https://pcpartpicker.com/user/twodsnerd/saved/#view=36WhjX)  | [All Info](https://guns.lol/itskyla) | [Last.FM](https://www.last.fm/user/MrDinoOnTwitch) | [Github](https://github.com/astridiol)
-
- <a href="https://www.last.fm/user/MrDinoOnTwitch">![alt text](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=mrdinoontwitch&theme=dark&show_scrobbles=true)</a>
+ ## Hewwoo, I am Astrid :3<br>[PC](https://pcpartpicker.com/user/twodsnerd/saved/#view=36WhjX)  | [All Info](https://guns.lol/itskyla) | [Last.FM](https://www.last.fm/user/MrDinoOnTwitch) | [Github](https://github.com/astridiol) <br> <a href="https://www.last.fm/user/MrDinoOnTwitch">![alt text](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=mrdinoontwitch&theme=dark&show_scrobbles=true)</a>
 
 ## I Work on Projects Like "You Stand No Chance" or "Open Source Ricochet". I Enjoy Games Like Celeste and Stardew Valley and Enjoy Listening to Laufey and Faye Webster. I am Also a Arch Linux User ^_^<br><br>
 
