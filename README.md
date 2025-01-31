@@ -14,7 +14,9 @@
 
 ### You Stand No Chance
 
-### Adds Scythes to Minecraft and is Required to be Ran on the Server Side. For People That Want More Weapons But Want Them to Feel Like Vanilla MC.
+### The mod introduces new elements, including scythes, to enhance your Minecraft experience. The new weapons, such as scythes, are crafted to blend seamlessly with the traditional Minecraft gameplay. The scythes bring a fresh dynamic to the game, providing not only a new aesthetic but also unique gameplay mechanics that integrate smoothly with the traditional Minecraft experience. these scythes add a layer of depth and fun to your gameplay.
+
+
 
 <br>
 <img src="https://cdn.modrinth.com/data/3HyN4uFO/images/4d336d79e8dc24be95e5d6ea90743da73b049b17.png" style="border-radius: 10px;"> 
