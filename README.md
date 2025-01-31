@@ -1,4 +1,9 @@
- ## Hewwoo, I am Astrid :3<br><br> [PC](https://pcpartpicker.com/user/twodsnerd/saved/#view=36WhjX)  | [All Info](https://guns.lol/itskyla) | [Last.FM](https://www.last.fm/user/MrDinoOnTwitch) | [Github](https://github.com/astridiol)
+ ## Hewwoo, I am Astrid :3<br>
+ 
+ <br> 
+ <a href="https://www.last.fm/user/MrDinoOnTwitch"><img src="https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=mrdinoontwitch&theme=dark&show_scrobbles=true" style="height: 15vh; border-radius: 10px;" alt="&nbsp;if i was listening to music it would show here"></a>
+
+ ## [PC](https://pcpartpicker.com/user/twodsnerd/saved/#view=36WhjX)  | [All Info](https://guns.lol/itskyla) | [Last.FM](https://www.last.fm/user/MrDinoOnTwitch) | [Github](https://github.com/astridiol)
 
  <a href="https://www.last.fm/user/MrDinoOnTwitch">![alt text](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=mrdinoontwitch&theme=dark&show_scrobbles=true)</a>
 
