@@ -1,4 +1,8 @@
- ## Hewwoo, I am Astrid :3<br><br> [PC](https://pcpartpicker.com/user/twodsnerd/saved/#view=36WhjX)  | [All Info](https://guns.lol/itskyla) | [Last.FM](https://www.last.fm/user/MrDinoOnTwitch) | [Github](https://github.com/astridiol)<br><br>I Work on Projects Like "You Stand No Chance" or "Open Source Ricochet". I Enjoy Games Like Celeste and Stardew Valley and Enjoy Listening to Laufey and Faye Webster. I am Also a Arch Linux User ^_^<br><br>
+ ## Hewwoo, I am Astrid :3<br><br> [PC](https://pcpartpicker.com/user/twodsnerd/saved/#view=36WhjX)  | [All Info](https://guns.lol/itskyla) | [Last.FM](https://www.last.fm/user/MrDinoOnTwitch) | [Github](https://github.com/astridiol)
+
+ <a href="https://www.last.fm/user/MrDinoOnTwitch">![alt text](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=mrdinoontwitch&theme=dark&show_scrobbles=true)</a>
+
+## <br><br>I Work on Projects Like "You Stand No Chance" or "Open Source Ricochet". I Enjoy Games Like Celeste and Stardew Valley and Enjoy Listening to Laufey and Faye Webster. I am Also a Arch Linux User ^_^<br><br>
 
 # Projects >w< <br>
 
