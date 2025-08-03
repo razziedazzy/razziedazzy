@@ -1,4 +1,4 @@
- ## Hewwoo, I am Lily :3<br>[Website](https://astridiol.pages.gay/) | [PC](https://pcpartpicker.com/user/twodsnerd/saved/#view=36WhjX)  | [All Info](https://guns.lol/itskyla) | [Last.FM](https://www.last.fm/user/MrDinoOnTwitch) | [Github](https://github.com/astridiol) <br>i am working on two projects named you stand no chance and open source ricochet. i love playing games created by people like bethesda as my favorate seires is the elder scrolls. i typically do not work on projects often so im sorry if things do not get updated fast. <br><br><br>![alt text](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=mrdinoontwitch&theme=dimmed&show_scrobbles=true)<br><br>
+ ## Hewwoo, I am Lily :3<br>[Website](https://astridiol.pages.gay/) | [PC](https://pcpartpicker.com/user/twodsnerd/saved/#view=36WhjX)  | [All Info](https://guns.lol/itskyla) | [Last.FM](https://www.last.fm/user/MrDinoOnTwitch) | [Github](https://github.com/astridiol) <br><br><br><br>![alt text](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=mrdinoontwitch&theme=dimmed&show_scrobbles=true)<br><br>
 
 # Projects >w< <br>
 
