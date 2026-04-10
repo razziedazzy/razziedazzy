@@ -1,6 +1,7 @@
 # Projects <br>
 
-### You Stand No Chance [![Download](https://img.shields.io/badge/DOWNLOAD-blue?label=💻&logo=&logoColor=redd)](https://github.com/razziedazzy/You-Stand-No-Chance/releases)
+## You Stand No Chance 
+[![Download](https://img.shields.io/badge/DOWNLOAD-blue?label=💻&logo=&logoColor=redd)](https://github.com/razziedazzy/You-Stand-No-Chance/releases)
 
 A Simple Minecraft Mod That Adds Various Scythe Variations
 
