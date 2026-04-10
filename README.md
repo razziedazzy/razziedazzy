@@ -1,5 +1,3 @@
- ## Hello, I am Lily<br>[PC](https://pcpartpicker.com/user/twodsnerd/saved/#view=36WhjX) | [Last.FM](https://www.last.fm/user/MrDinoOnTwitch)
-
 # Projects <br>
 
 ### You Stand No Chance [![Download](https://img.shields.io/badge/DOWNLOAD-blue?label=💻&logo=&logoColor=redd)](https://github.com/razziedazzy/You-Stand-No-Chance/releases)
